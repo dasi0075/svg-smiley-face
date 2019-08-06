@@ -20,3 +20,11 @@
   transform-origin: 156px 82px;
   transition: all .5s linear;
 }
+
+.smiley:hover .left-eyebrown {
+  transform: rotate(100deg);
+}
+
+.smiley:hover .right-eyebrown {
+  transform: rotate(80deg);
+}
