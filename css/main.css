@@ -8,3 +8,13 @@
   stroke-width: 6px;
   stroke-linecap: round;
 }
+
+.left-eyebrown {
+  transform: rotate(80deg);
+  transform-origin: 100px 82px;
+}
+
+.right-eyebrown {
+  transform: rotate(100deg);
+  transform-origin: 156px 82px;
+}
