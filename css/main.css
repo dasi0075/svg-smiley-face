@@ -9,22 +9,22 @@
   stroke-linecap: round;
 }
 
-.left-eyebrown {
+.left-eyebrow {
   transform: rotate(80deg);
   transform-origin: 100px 82px;
   transition: all .5s linear;
 }
 
-.right-eyebrown {
+.right-eyebrow {
   transform: rotate(100deg);
   transform-origin: 156px 82px;
   transition: all .5s linear;
 }
 
-.smiley:hover .left-eyebrown {
+.smiley:hover .left-eyebrow {
   transform: rotate(100deg);
 }
 
-.smiley:hover .right-eyebrown {
+.smiley:hover .right-eyebrow {
   transform: rotate(80deg);
 }
